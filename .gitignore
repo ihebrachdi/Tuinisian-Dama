@@ -1,11 +1,22 @@
-
+# Directories
+Debug/
+dependencies/
+x64/
 .vs/
 
-*.user
+
+
 # Prerequisites
 *.d
 
+# VS project files
+
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 # Compiled Object files
+*.user
 *.slo
 *.lo
 *.o
