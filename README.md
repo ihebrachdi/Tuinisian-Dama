@@ -13,25 +13,25 @@ you need first to built and run the server you will find it in the SERVER folder
 enter a valide port number exp:36000.\ 
 The server will wait for a two clients to connects and once they do each one will receive it pieces color and as usual the white pieces start first.
 
-![server]{screenshot\server.PNG}
+![server](screenshot/server.PNG)
 
 ---
 
 ### To run client:
 after you build and run it you need to enter local or public IP address and the Port number it will be provide it by the server each time you run it\
 
-![server]{screenshot\client connect.PNG}
+![client](screenshot/client_connect.PNG)
 
-\
+ 
 ---
 
 ## Screenshots
 
-![server]{screenshot\tunisian dama.PNG}
+![ss](screenshot/tunisian_dama.PNG)
 
-\
 
-![server]{screenshot\tunisian dama capture.PNG}
+
+![ss Attack](screenshot/tunisian_dama_capture.PNG)
 
 ---
 
