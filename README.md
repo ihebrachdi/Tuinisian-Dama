@@ -27,7 +27,7 @@ after you build and run it you need to enter local or public IP address and the 
 
 ## Screenshots
 
-![ss](screenshot/tunisian_dama.PNG)
+![ss](screenshot/tunisian&#32;_dama.PNG)
 
 
 
